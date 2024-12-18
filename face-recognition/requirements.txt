@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+boto3
+opencv-python
+pillow
+torch==2.0.1+cpu
+facenet_pytorch
+torchvision==0.15.2+cpu
